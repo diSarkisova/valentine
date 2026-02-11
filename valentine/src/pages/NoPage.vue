@@ -20,7 +20,12 @@ else {
 <template>
   <div @click="handleClick">
     <h1 v-if="isClickedSerious"> ХАХХАХАХ!!! Как легко повелся! Думал я дам тебе такую возможность?! </h1>
-    <h1 v-else >Ты серьезно???</h1>
+    <div v-else>
+      <div style="font-size: 3rem; text-align: center;">😿</div>
+      <h1  >Ты серьезно???</h1>
+      <div style="font-size: 4rem; text-align: center; margin-top: 20px;">💔</div>
+    </div>
+
 
   </div>
 </template>
