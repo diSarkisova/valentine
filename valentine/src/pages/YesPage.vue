@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import photo1 from '../assets/photo1.jpg';
+import photo2 from '../assets/photo2.jpg';
 
 const emojis = ["💖","💕","💘","💝","💗","✨","😍","🥰"]
 </script>
@@ -25,11 +27,11 @@ const emojis = ["💖","💕","💘","💝","💗","✨","😍","🥰"]
 
     <div class="happy__photos">
       <div class="photo photo--left">
-        <img src="../assets/photo_2026-02-13_19-51-59.jpg" alt="photo1" />
+        <img :src="photo1" alt="photo1" />
       </div>
 
       <div class="photo photo--right">
-        <img src="../assets/photo_2026-02-13_19-52-02.jpg" alt="photo2" />
+        <img :src="photo2" alt="photo2" />
       </div>
     </div>
 
