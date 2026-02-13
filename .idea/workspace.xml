@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15632721-c1d0-41c7-b3ec-7f0d4d8f8ac4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/valentine/src/assets/gif-gifkk.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valentine/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valentine/tailwind.config.js" afterDir="false" />
+    <list default="true" id="15632721-c1d0-41c7-b3ec-7f0d4d8f8ac4" name="Changes" comment="master: добавлены стили">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/valentine/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/valentine/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/valentine/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/valentine/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/valentine/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/valentine/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/valentine/src/layout/DefaultLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/valentine/src/layout/DefaultLayout.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/valentine/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/valentine/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/valentine/src/pages/MainPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/valentine/src/pages/MainPage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/valentine/src/pages/NoPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/valentine/src/pages/NoPage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/valentine/src/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valentine/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/valentine/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,8 +127,18 @@
       <workItem from="1770835714107" duration="183000" />
       <workItem from="1770835928187" duration="183000" />
       <workItem from="1770836124122" duration="160000" />
-      <workItem from="1770836760727" duration="2136000" />
+      <workItem from="1770836760727" duration="2251000" />
+      <workItem from="1770882341919" duration="413000" />
     </task>
+    <task id="LOCAL-00001" summary="master: добавлены стили">
+      <option name="closed" value="true" />
+      <created>1770839021141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770839021141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +154,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="master: добавлены стили" />
+    <option name="LAST_COMMIT_MESSAGE" value="master: добавлены стили" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
