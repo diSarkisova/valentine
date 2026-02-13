@@ -7,7 +7,7 @@ const emojis = ["💖","💕","💘","💝","💗","✨","😍","🥰"]
   <div class="happy">
     <!-- Летающие смайлы -->
     <span
-        v-for="(emoji, i) in 25"
+        v-for="i in 25"
         :key="i"
         class="emoji"
         :style="{
